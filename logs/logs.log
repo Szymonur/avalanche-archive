@@ -1,2 +1,6 @@
 2024-04-01 --- 19:28:45 <SUCCESS> from 'https://lawiny.topr.pl/viewpdf';
 2024-04-01 --- 19:29:21 <SUCCESS> from 'https://lawiny.topr.pl/viewpdf';
+2024-04-04 --- 10:40:03 <SUCCESS> from 'https://lawiny.topr.pl/viewpdf';
+2024-04-04 --- 10:48:31 <FAIL> from 'https://lawiny.topr.pl/viewpdf';
+2024-04-04 --- 10:49:07 <FAIL> from 'https://lawiny.topr.pl/viewpdf';
+2024-04-04 --- 10:53:45 <SUCCESS> from 'https://lawiny.topr.pl/viewpdf';

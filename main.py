@@ -4,7 +4,6 @@ from urllib.request import urlopen
 import json
 
 today = date.today()
-tomorrow = today + timedelta(1)
 
 def tpn_scraper():
     url = "https://lawiny.topr.pl/"
@@ -27,11 +26,8 @@ def extract_description_from_pdf():
     with open("tmp.txt", "r") as f:
        for l in f:
             l = l.strip()
-            if do_write_danger:
-                danger_level = l
-                do_write_danger = False
-            if l == str(tomorrow):
-                do_write_danger = True
+            if l[0:19] == "Stopień zagrożenia:":
+                danger_level = l[20::]
             if l == "TURYSTO, TATERNIKU, NARCIARZU!":
                 do_write = False
             if do_write:
