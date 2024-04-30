@@ -1,5 +1,5 @@
 from pypdf import PdfReader
-from datetime import date, timedelta
+from datetime import date
 from urllib.request import urlopen
 import json
 
@@ -10,7 +10,9 @@ def tpn_scraper():
     page = urlopen(url)
     html_bytes = page.read()
     html = html_bytes.decode("utf-8")
-    print(html)
+    with open("tpn.html", "w") as f:
+        f.write(html)
+
 def extract_description_from_pdf():
     reader = PdfReader(f'./archive/{today}_avalanche.pdf')
     page = reader.pages[0]

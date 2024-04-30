@@ -2,13 +2,14 @@
 34-500 Zakopane
 ul. Piłsudskiego 63a
 Szczegółowy komunikat lawinowy TOPR dla Tatr Polskich
-Obowiązuje do: 2024-04-04 godz. 20:00
-Ogłoszono: 2024-04-03 godz. 15:45
+Obowiązuje do: 2024-04-30 godz. 20:00
+Ogłoszono: 2024-04-29 godz. 15:51
 Ogłoszony stopień zagrożenia
 Stopień zagrożenia: Umiarkowany
+(wraz ze wzrostem temperatury)
 Przed południem (AM)
 Po południu (PM)
- Stopień zagrożenia: Umiarkowany
+ Stopień zagrożenia: Umiarkowany (wraz ze wzrostem temperatury)
 Pokrywa śnieżna jest na ogół związana dobrze, ale na niektórych
 stromych stokach jest związana umiarkowanie. Wyzwolenie lawiny
 jest możliwe przeważnie przy dużym obciążeniu dodatkowym,
@@ -22,26 +23,27 @@ odpowiedniego wyboru trasy oraz zachowania elementarnych
 szczególnie na wskazanych w komunikacie lawinowym, jako
 niekorzystnych pod względem wystawy lub wysokości.
 Historia i tendencja zagrożenia:
-2024-04-01
+2024-04-27
 HISTORIA
 2
-2024-04-02
+2024-04-28
 HISTORIA
 2
-2024-04-03
+2024-04-29
 HISTORIA
 2
-2024-04-04
+2024-04-30
 2
-2024-04-05
+2024-05-01
 PROGNOZA
 2
 Informacje dodatkowe:
-Na skutek działalności wiatru pokrywa rozmieszczona
-nierównomiernie. Uwaga!. We wszelkich stromych i bardzo stromych
-formacjach wklęsłych leżą spore depozyty sprasowanego wiatrem
-śniegu . W dolnych partiach Tatr mogą wystąpić lawiny z mokrego
-śniegu w tym lawiny gruntowe .
+Znaczne ocieplenie powoduje , ze snieg w gornych partiach Tatr
+staje sie mokry i bardzo ciezki a to powoduje niebezpieczenstwo
+lawin o duzych rozmiarach szczegolnie na wystawach polnocnych
+gdzie warstwa niezwiazanego sniegu z ostatniego opadu jest jeszcze
+dosyc gruba . Nalezy tez brac pod uwage lawiny gruntowe ,
+zwlaszcza na stokach naslonecznionych
 TURYSTO, TATERNIKU, NARCIARZU!
 Komunikat lawinowy jest elementem systemu ostrzegania i zawiera przede wszystkim ogólny opis zagrożenia lawinowego.
 Informacje zawarte w komunikacie lawinowym stanowią podstawę do własnej oceny użytkownika. Nie zastępują
@@ -51,5 +53,5 @@ prognozowanych warunków w Tatrach oraz do Twoich umiejętności i doświadczeni
 PAMIĘTAJ, ŻE PRZY ZBYT DUŻYM RYZYKU LAWINOWYM RATOWNICY MOGĄ DOTRZEĆ DO CIEBIE ZA PÓŹNO BY
 CI POMÓC!
 Komunikat wygenerowano z rejestru Komunikatów Lawinowych TOPR.
-Data sporządzenia: 2024-04-03 15:45:53. Sporządził: Tomasz Gąsienica Mikołajczyk
+Data sporządzenia: 2024-04-29 15:51:19. Sporządził: Jan - Junior Gąsienica Roj
 Powered by TCPDF (www.tcpdf.org)                                                strona 1 / 1
